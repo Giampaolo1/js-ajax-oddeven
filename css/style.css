@@ -1,0 +1,21 @@
+/*  regole generali della pagina */
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+.square {
+  width: 80%;
+  height: 50px;
+  border: black solid 1px;
+}
+
+.numrossi{
+  background-color: lightgrey;
+}
+
+.numverdi{
+  background-color: lightgreen;
+}
